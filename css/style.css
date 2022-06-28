@@ -382,6 +382,34 @@ html, body{
     line-height: 20px !important;
 }
 /*end of staff section*/
+/* nav-links active*/
 .active a{
 color: #fe730c !important;
 }
+/* end of nav-links active*/
+/*clubs and societies*/
+.clubSpot .border{
+    width: 40px !important;
+    height: 4px !important;
+    background-color:#fe730c !important;
+}
+.clubSpot{
+    margin-left: 100px !important;
+    margin-right: 100px !important;
+}
+.clubSpotRow p{
+    text-align: left !important;
+    line-height: 30px !important;
+    overflow: hidden !important;
+}
+.clubSpotRow span{
+    float: left !important;
+    color: #fe730c !important
+}
+.clubSpotRow img{
+    width: 100% !important;
+    height: 170px !important;
+    box-shadow: 10px 10px grey !important;
+}
+
+/*end of clubs and societies*/
